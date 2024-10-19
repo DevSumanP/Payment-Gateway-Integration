@@ -34,21 +34,21 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/DevSumanP/Payment-Gateway-Integration.git
-   \`\`\`
+   ```
 
 2. **Install Dependencies**:
 
-   \`\`\`bash
+   ```bash
    flutter pub get
-   \`\`\`
+   ```
 
 3. **Run the app**:
 
-   \`\`\`bash
+   ```bash
    flutter run
-   \`\`\`
+   ```
 
 ---
 
